@@ -9,6 +9,6 @@ bootstrap({
   defaultPage: 'home.index',
   pageLoader: (file) => import(`./pages/${file}`),
   portal: {
-    url: '<portal-api-address>'
+    url: '<portal-ui-address>'
   },
 })
