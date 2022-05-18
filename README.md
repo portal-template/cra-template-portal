@@ -6,7 +6,7 @@
 
 例如。
 
-``sh
+```sh
 npx create-react-app my-app --template portal
 
 # 或者
